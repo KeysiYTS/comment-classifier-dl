@@ -1,5 +1,5 @@
-from keras import models
-from keras.preprocessing.sequence import pad_sequences
+from tensorflow.keras import models
+from tensorflow.keras.preprocessing.sequence import pad_sequences
 import pickle
 
 def load_model(model_path):
