@@ -7,6 +7,6 @@ Werkzeug
 numpy
 scipy
 tensorflow-cpu
-keras
+keras==2.3.1
 fastapi
 pyaml
