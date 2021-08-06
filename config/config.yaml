@@ -1,6 +1,6 @@
 paths:
-  model: /content/drive/MyDrive/0. Machine Learning/Projetos/Toxic Comment/Flask Prod/V2_FLASK/models/lstm.h5
-  tokenizer: /content/drive/MyDrive/0. Machine Learning/Projetos/Toxic Comment/Flask Prod/V2_FLASK/models/tokenizer.pkl
+  model: ./models/lstm.h5
+  tokenizer: ./models/tokenizer.pkl
 
 api:
   application_url: http://127.0.0.1:8000/predict
