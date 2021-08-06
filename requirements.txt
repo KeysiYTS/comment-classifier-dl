@@ -4,7 +4,7 @@ itsdangerous
 Jinja2
 MarkupSafe
 Werkzeug
-numpy
+numpy==1.18.5
 scipy
 tensorflow-cpu
 keras
