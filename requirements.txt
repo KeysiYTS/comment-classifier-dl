@@ -1,4 +1,5 @@
 Flask
+celery
 gunicorn
 itsdangerous
 Jinja2
